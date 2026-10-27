@@ -5,32 +5,43 @@
 <a id="sobre-mim"></a>
 <p><img src="assets/profile/sobre.png" alt="01 — Sobre mim" width="100%"></p>
 
-Sou **Miguel Freire**, de Recife (PE). Tenho experiência com análise de dados e automação de rotinas com **Python e SQL**, trabalhando desde a integração e o tratamento dos dados até a construção de indicadores e a apresentação dos resultados.
+Sou **Miguel Freire**, de Recife-PE. Torcedor do mais querido **Santa Cruz FC**, entusiasta de um humor que adoça a vida e dos abraços calorosos de quem nos ama.
 
-Na Aeroespacial, trabalhei com dados operacionais e meteorológicos de energias renováveis. Essa experiência envolveu investigar inconsistências, analisar séries temporais e transformar regras de negócio em rotinas de acompanhamento.
+Tenho experiência com análise de dados e automação de rotinas com **Python e SQL**, trabalhando desde a integração e o tratamento dos dados até a construção de indicadores, apresentação de resultados e análises no contexto do negócio.
 
-Meu foco profissional é **Ciência de Dados**. Estou aprofundando meus conhecimentos em estatística e machine learning, com prática em problemas que exigem interpretar resultados e justificar decisões. Minha formação em **Engenharia Elétrica Eletrônica na Universidade de Pernambuco (UPE)** está em andamento.
+Na **AEROESPACIAL TECNOLOGIAS EM ENERGIA E SISTEMAS RENOVÁVEIS LTDA**, trabalhei com dados operacionais e meteorológicos do setor de energias renováveis. Essa experiência envolveu investigar inconsistências, analisar séries temporais e transformar regras de negócio em rotinas de acompanhamento.
+
+Meu foco profissional é **Ciência de Dados**. Estou aprofundando meus conhecimentos em estatística e machine learning, com prática em problemas que exigem interpretação de resultados e justificativa de decisões. Minha formação em **Engenharia Elétrica Eletrônica na Universidade de Pernambuco (UPE)** está em andamento.
+
+Também concluí **formações em dados na Alura**. Os certificados estão disponíveis na seção de [licenças e certificados do meu LinkedIn](https://www.linkedin.com/in/miguel-freire99/details/certifications/).
 
 <a id="experiencia-com-dados"></a>
 <p><img src="assets/profile/experiencia.png" alt="02 — Experiência com dados" width="100%"></p>
 
-**Aeroespacial · março de 2024 a outubro de 2026**  
+**AEROESPACIAL TECNOLOGIAS EM ENERGIA E SISTEMAS RENOVÁVEIS LTDA · março de 2024 a outubro de 2026**  
 Estagiário de Dados em Energias Renováveis → Analista de Desenvolvimento Trainee I
 
-- Desenvolvimento e manutenção de pipelines ETL com Python, pandas e NumPy para integrar, tratar e validar dados.
-- Análise de séries temporais e implementação de regras para identificar anomalias, desvios de desempenho e alertas.
-- Consultas SQL em MySQL e BigQuery, visualizações no Grafana e relatórios automatizados para acompanhar indicadores.
-- Aplicação de modelos de geração fotovoltaica com PVLIB para comparar geração medida e esperada e analisar perdas e disponibilidade.
+- Desenvolvimento e manutenção de rotinas de extração, tratamento e integração de dados operacionais e meteorológicos com **Python, pandas e NumPy**, incluindo consultas ao **Elipse Plant Manager (EPM)** e verificações de consistência e cobertura de séries temporais.
+- Construção de **dashboards e tabelas interativas no Grafana**, com consultas SQL em **MySQL e BigQuery**, para acompanhamento da geração, das condições operacionais e dos indicadores de desempenho das usinas.
+- Implementação de **regras de negócio e limites de alerta** para identificar comportamentos anormais em equipamentos fotovoltaicos e apoiar a investigação de ocorrências pelas equipes de **Operação e Manutenção (O&M)**.
+- Aplicação do **PVLIB** para estimar a geração esperada e compará-la às medições dos equipamentos, apoiando análises de perdas e subdesempenho.
+- Desenvolvimento de rotinas para **classificar estados operacionais e calcular a disponibilidade de inversores**, considerando potência, irradiância, duração das ocorrências e restrições de geração.
+- Automatização da geração de **relatórios em Python**, com consolidação de indicadores e preenchimento de modelos predefinidos para acompanhamento operacional.
+- Processamento de documentos e registros de **falhas e indisponibilidades**, utilizando Python para automatizar a organização, classificação e qualificação dos eventos.
+- Configuração e manutenção da **execução periódica de rotinas em máquina virtual, com agendamento via crontab**, para atualização de dados e processamento recorrente.
 
 <a id="ferramentas"></a>
 <p><img src="assets/profile/ferramentas.png" alt="03 — Ferramentas" width="100%"></p>
 
-| Área | Ferramentas |
+| **Área** | **Ferramentas e tecnologias** |
 | :--- | :--- |
-| Programação e manipulação de dados | Python, pandas e NumPy |
+| Programação e tratamento de dados | Python, pandas e NumPy |
 | Consultas e bancos de dados | SQL, MySQL e BigQuery |
-| Visualização e acompanhamento | Grafana, Matplotlib e Seaborn |
-| Modelagem e estudos | PVLIB e scikit-learn |
+| Coleta de dados industriais | Elipse Plant Manager (EPM) |
+| Dashboards e visualização de dados | Grafana, Matplotlib e Seaborn |
+| Modelagem de geração fotovoltaica | PVLIB |
+| Machine learning — em aprofundamento | scikit-learn |
+| Automação e agendamento de rotinas | crontab e execução em máquinas virtuais |
 | Versionamento e desenvolvimento | Git, GitHub, VS Code e Google Colab |
 
 <a id="estudos-atuais"></a>
